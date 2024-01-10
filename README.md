@@ -1,10 +1,5 @@
 <h1 align="center">
   <b>Karthik Renuprasad</b>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/karthikrenuprasad/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
 </h1>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MrKarkeys&theme=dark&hide_border=true)](https://git.io/streak-stats)
