@@ -1,5 +1,10 @@
 <h1 align="center">
   <b>Karthik Renuprasad</b>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/karthikrenuprasad/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
 </h1>
 
 <!--
